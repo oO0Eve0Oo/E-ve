@@ -23,23 +23,3 @@ I'm a self-taught passionate FrontEnd developer from France
 
 | <a href="https://github.com/oO0Eve0Oo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oO0Eve0Oo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/oO0Eve0Oo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oO0Eve0Oo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/oO0Eve0Oo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oO0Eve0Oo&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/oO0Eve0Oo/oO0Eve0Oo.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oO0Eve0Oo&repo=oO0Eve0Oo.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/oO0Eve0Oo/oO0Eve0Oo/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/oO0Eve0Oo">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/oO0Eve0Oo/oO0Eve0Oo/master/assets/codesandbox.svg" />
-</a>

@@ -19,3 +19,4 @@
 
 | <a href="https://github.com/oO0Eve0Oo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oO0Eve0Oo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/oO0Eve0Oo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oO0Eve0Oo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dictateurfou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

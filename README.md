@@ -1,12 +1,12 @@
 <br />
 
-I'm a self-taught passionate FrontEnd developer from France 
-
 **About me**
 
 - 💼 FrontEnd Engineer at [Soon]
 
 - 📈 Contact : E ve#0001
+
+- 🌺 I'm a self-taught passionate FrontEnd developer from France 
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
